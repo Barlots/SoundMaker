@@ -11,3 +11,4 @@ Developed for myself to overcome issue with my soundbar going into "power saving
 
 ### Missing functionalities
 1. Add option to save user settings in order to load them automaticaly when application starts. I may add something like this at someones request.
+2. Reduce size of result .exe file somehow - ~151MB is too much
