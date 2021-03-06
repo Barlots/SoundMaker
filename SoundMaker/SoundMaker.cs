@@ -15,7 +15,7 @@ namespace SoundMaker
         public static WaveOutEvent waveOutEvent;
 
         public static double gain = 0.001d;
-        public static double frequency = 400;
+        public static double frequency = 10;
 
         public static Thread soundLoopThread;
 
